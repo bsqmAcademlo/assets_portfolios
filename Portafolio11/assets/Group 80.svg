@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1261" height="1276" fill="none" viewBox="0 0 1261 1276">
+  <path stroke="url(#a)" stroke-width="4" d="M206.12 998.988c-.043.315-.373 1.003-1.954 1.802-1.516.77-3.778 1.42-6.704 1.85-5.825.87-13.821.83-22.579-.37-8.757-1.21-16.468-3.327-21.843-5.733-2.7-1.209-4.703-2.443-5.956-3.59-1.307-1.196-1.439-1.948-1.396-2.263.043-.315.373-1.003 1.955-1.803 1.515-.767 3.777-1.415 6.703-1.85 5.825-.868 13.822-.829 22.579.375 8.758 1.203 16.468 3.322 21.843 5.729 2.701 1.209 4.704 2.443 5.956 3.589 1.308 1.197 1.44 1.949 1.396 2.264Z" opacity=".3"/>
+  <path stroke="url(#b)" stroke-width="6" d="M156.266 685.495c.352.531.655 1.835-.453 4.568-1.064 2.625-3.185 5.901-6.345 9.625-6.294 7.414-16.253 16.067-28.403 24.114-12.15 8.047-24.002 13.841-33.285 16.742-4.661 1.457-8.506 2.132-11.338 2.088-2.949-.046-4.03-.835-4.382-1.366-.352-.531-.656-1.834.453-4.568 1.064-2.624 3.185-5.901 6.345-9.624 6.294-7.415 16.252-16.068 28.403-24.115 12.15-8.047 24.002-13.84 33.285-16.742 4.661-1.457 8.506-2.131 11.338-2.087 2.948.046 4.03.834 4.382 1.365Z"/>
+  <g filter="url(#c)" opacity=".35">
+    <circle cx="638" cy="638" r="388" fill="url(#d)"/>
+  </g>
+  <path stroke="url(#e)" stroke-width="6" d="M244.922 622.513c-.087.632-.72 1.811-3.357 3.131-2.533 1.267-6.29 2.327-11.122 3.034-9.623 1.41-22.815 1.328-37.253-.656-14.437-1.983-27.163-5.463-36.049-9.416-4.462-1.985-7.794-4.018-9.891-5.922-2.183-1.982-2.475-3.289-2.388-3.92.087-.631.72-1.81 3.357-3.13 2.533-1.268 6.29-2.327 11.122-3.035 9.622-1.409 22.815-1.328 37.253.656 14.437 1.984 27.163 5.464 36.049 9.417 4.462 1.984 7.794 4.018 9.891 5.922 2.183 1.982 2.475 3.288 2.388 3.919Z" opacity=".7"/>
+  <path stroke="url(#f)" stroke-width="10" d="M756.761 643.394c-.268 2.52-2.435 5.803-8.749 9.209-6.143 3.313-15.151 6.128-26.58 8.162-22.791 4.055-54.055 4.809-88.322 1.167-34.267-3.641-64.675-10.947-86.105-19.701-10.747-4.39-18.962-9.035-24.271-13.565-5.458-4.657-6.886-8.322-6.619-10.842.268-2.52 2.435-5.803 8.749-9.209 6.143-3.314 15.151-6.128 26.58-8.162 22.791-4.056 54.055-4.809 88.322-1.168 34.268 3.641 64.676 10.947 86.105 19.701 10.747 4.391 18.962 9.035 24.271 13.565 5.458 4.657 6.887 8.322 6.619 10.843Z" opacity=".4"/>
+  <path fill="url(#g)" d="M114 630h663v548H114z"/>
+  <defs>
+    <radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="matrix(-1.29324 9.41156 -32.19745 -4.42424 175.903 994.835)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3F51E8"/>
+      <stop offset=".573" stop-color="#9BA4ED"/>
+      <stop offset="1" stop-color="#1F34E7"/>
+    </radialGradient>
+    <radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="matrix(8.55886 12.9227 -44.60413 29.54186 114.163 713.383)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3F51E8"/>
+      <stop offset=".573" stop-color="#9BA4ED"/>
+      <stop offset="1" stop-color="#1F34E7"/>
+    </radialGradient>
+    <radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="rotate(136.101 326.161 413.014) scale(580.512)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1FC3E7" stop-opacity=".844"/>
+      <stop offset="1" stop-color="#1F34E7"/>
+    </radialGradient>
+    <radialGradient id="e" cx="0" cy="0" r="1" gradientTransform="matrix(-2.11005 15.3557 -53.00195 -7.28308 194.892 615.639)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3F51E8"/>
+      <stop offset=".573" stop-color="#9BA4ED"/>
+      <stop offset="1" stop-color="#1F34E7"/>
+    </radialGradient>
+    <radialGradient id="f" cx="0" cy="0" r="1" gradientTransform="rotate(96.065 34.642 601.502) scale(36.5 126)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3F51E8"/>
+      <stop offset=".573" stop-color="#9BA4ED"/>
+      <stop offset="1" stop-color="#1F34E7"/>
+    </radialGradient>
+    <pattern id="g" width="1" height="1" patternContentUnits="objectBoundingBox">
+      <use xlink:href="#h" transform="matrix(.00108 0 0 .0013 -.235 0)"/>
+    </pattern>
+    <filter id="c" width="1276" height="1276" x="0" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_206_910" stdDeviation="125"/>
+    </filter>
+  </defs>
+</svg>

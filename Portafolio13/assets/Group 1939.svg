@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="385" height="431" fill="none" viewBox="0 0 385 431">
+  <ellipse cx="192.5" cy="215.5" fill="url(#a)" rx="192.5" ry="215.5"/>
+  <ellipse cx="205" cy="215.462" fill="url(#b)" rx="129" ry="129.5"/>
+  <path fill="url(#c)" d="M124 91.68h165v223H124z"/>
+  <defs>
+    <radialGradient id="a" cx="0" cy="0" r="1" gradientTransform="matrix(0 215.5 -192.5 0 192.5 215.5)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#763CAC"/>
+      <stop offset="1" stop-color="#320F85" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="matrix(0 129.5 -129 0 205 215.462)" gradientUnits="userSpaceOnUse">
+      <stop offset=".177" stop-color="#fff"/>
+      <stop offset="1" stop-color="#434343" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="c" width="1" height="1" patternContentUnits="objectBoundingBox">
+      <use xlink:href="#d" transform="scale(.00088 .00065)"/>
+    </pattern>
+  </defs>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="867" height="896" fill="none" viewBox="0 0 867 896">
+  <g filter="url(#a)">
+    <circle cx="433.5" cy="433.5" r="335" stroke="#E40037" stroke-width="37"/>
+  </g>
+  <circle cx="433.5" cy="433.5" r="335" stroke="#E40037" stroke-width="37"/>
+  <path fill="url(#b)" d="M0 0h701v786H0z" transform="matrix(-1 0 0 1 844 110)"/>
+  <defs>
+    <pattern id="b" width="1" height="1" patternContentUnits="objectBoundingBox">
+      <use xlink:href="#c" transform="scale(.00212 .00189)"/>
+    </pattern>
+    <filter id="a" width="867" height="867" x="0" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_941_868" stdDeviation="40"/>
+    </filter>
+  </defs>
+</svg>

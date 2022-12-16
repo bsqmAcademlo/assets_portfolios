@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1422" height="1337" fill="none" viewBox="0 0 1422 1337">
+  <g filter="url(#a)" opacity=".3">
+    <circle cx="893.5" cy="808.5" r="228.5" fill="url(#b)"/>
+  </g>
+  <g filter="url(#c)" opacity=".42">
+    <circle cx="521.5" cy="528.5" r="228.5" fill="url(#d)"/>
+  </g>
+  <defs>
+    <radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="rotate(136.101 363.762 563.947) scale(341.874)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1FC3E7" stop-opacity=".844"/>
+      <stop offset="1" stop-color="#1F34E7"/>
+    </radialGradient>
+    <radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="rotate(136.101 234.184 348.99) scale(341.874)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1FC3E7" stop-opacity=".844"/>
+      <stop offset="1" stop-color="#1F34E7"/>
+    </radialGradient>
+    <filter id="a" width="1057" height="1057" x="365" y="280" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_206_973" stdDeviation="150"/>
+    </filter>
+    <filter id="c" width="1057" height="1057" x="-7" y="0" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_206_973" stdDeviation="150"/>
+    </filter>
+  </defs>
+</svg>
